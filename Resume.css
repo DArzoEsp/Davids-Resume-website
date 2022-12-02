@@ -100,7 +100,6 @@ h2 {
   padding: 20px 0;
   gap: 20px;
   text-align: center;
-  object-fit: cover;
 }
 
 #project {
@@ -108,6 +107,7 @@ h2 {
   width: 250px;
   height: 250px;
   border: 2px solid black;
+  object-fit: cover;
 }
 
 @media only screen and (max-width: 600px) {
